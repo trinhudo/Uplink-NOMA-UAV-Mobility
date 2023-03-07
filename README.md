@@ -13,4 +13,5 @@ In this paper, we propose a novel adaptive decoding mechanism (ADM) for the unma
 - IEEExplore: to be updated
 
 ## Code:
-- https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility 
+- https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility  
+- https://github.com/thanhluannguyen/UAV-NOMA-ADM  
