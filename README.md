@@ -1,7 +1,7 @@
 # Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA
 **Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, Daniel Benevides da Costa, Zygmunt J. Haas**  
 *IEEE Transactions on Vehicular Technology*  
-March 2023
+March 2023  
 DOI: 10.1109/TVT.2023.3255001  
 
 ## Abstract:
